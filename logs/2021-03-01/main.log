@@ -1,0 +1,14 @@
+2021-03-01 34:04:27	[34mINFO[0m	blog/main.go:21	Http服务启动成功	{"port": "8000"}
+2021-03-01 34:04:27	[31mERROR[0m	blog/main.go:24	Http服务启动失败	{"error": "listen tcp :8000: bind: address already in use"}
+2021-03-01 315:15:59	[34mINFO[0m	blog/main.go:21	Http服务启动成功	{"port": "8000"}
+2021-03-01 315:15:59	[31mERROR[0m	blog/main.go:24	Http服务启动失败	{"error": "listen tcp :8000: bind: address already in use"}
+2021-03-01 316:16:30	[31mERROR[0m	blog/main.go:23	Http服务启动失败	{"error": "listen tcp :8000: bind: address already in use"}
+2021-03-01 316:16:46	[31mERROR[0m	blog/main.go:23	Http服务启动失败	{"error": "listen tcp :8000: bind: address already in use"}
+2021-03-01 316:16:52	[31mERROR[0m	blog/main.go:23	Http服务启动失败	{"error": "listen tcp :8000: bind: address already in use"}
+2021-03-01 319:19:36	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"port": "8000"}
+2021-03-01 320:20:54	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"ip": ":8000", "port": "8000"}
+2021-03-01 321:21:39	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"addr": ":8000"}
+2021-03-01 329:29:20	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"serverError": "json: unsupported type: gin.HandlerFunc"}
+2021-03-01 331:31:23	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"serverError": "json: unsupported type: gin.HandlerFunc"}
+2021-03-01 332:32:17	[34mINFO[0m	blog/main.go:22	Http服务开始启动	{"server": {"Id":0,"Uid":"","Pwd":"","Email":"","Avatar":"","Level":0,"Name":"","RegisterDate":"","CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z"}}
+2021-03-01 354:54:00	[34mINFO[0m	blog/main.go:21	Http服务开始启动	{"data": {"test":"test","test1":1}}
